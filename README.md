@@ -24,4 +24,8 @@ Our platform leverages some of the most modern and robust technologies:
 - **Deployment**: [Vercel](https://vercel.com/)
 
 
-## Live Website: [godziilu.com](https://godzillu.com)
+## Live Website: [godziilu.com](https://www.godzillu.com/)
+
+## Admin Account
+- **email:** admin@gmail.com
+- **password:** admin
