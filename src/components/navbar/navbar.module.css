@@ -1,0 +1,31 @@
+.container {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  /* padding-top: 20px; */
+  font-family: helvetica-heavy;
+  font-size: 32px;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.logout {
+  padding: 5px 15px;
+  border: none;
+  background-color: #a46bfc;
+  color: #eee;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.link:hover {
+  color: #a46bfc !important;
+}

@@ -1,0 +1,50 @@
+.mainTitle {
+  font-size: 42px;
+  margin-bottom: 0px;
+  text-align: start;
+  font-family: helvetica-bold;
+}
+
+.selectTitle {
+  font-family: helvetica-normal;
+  font-size: 26px;
+  margin-bottom: 40px;
+}
+
+.items {
+  display: flex;
+  gap: 53px;
+}
+
+.item {
+  /* border: 5px solid #bbb;
+  border-radius: 5px; */
+  width: 380px;
+  height: 500px;
+  position: relative;
+  background-size: cover !important;
+}
+
+.item:nth-child(1) {
+  background: url("/manga-akira.jpg");
+}
+
+.item:nth-child(2) {
+  background: url("/3d-artwork-4.jpg");
+}
+
+.item:nth-child(3) {
+  background: url("/dave-arcade-illustration-0.jpg");
+}
+
+.title {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.item:hover .title {
+  color: #a46bfc;
+}
