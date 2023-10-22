@@ -4,9 +4,9 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 
 // localhost:3000
-// godzillu.com
+// www.godzillu.com
 async function getData(id) {
-  const res = await fetch(`http://localhost:3000/api/posts/${id}`, {
+  const res = await fetch(`http://www.godzillu.com/api/posts/${id}`, {
     cache: "no-store",
   });
 
