@@ -1,9 +1,11 @@
 .container {
-  padding: 20px;
+  font-family: helvetica-bold;
+  font-size: 16px;
+  padding: 18px 25px;
   cursor: pointer;
   background-color: #a46bfc;
   border: none;
   border-radius: 5px;
   width: max-content;
-  color: white;
+  color: #eee;
 }
