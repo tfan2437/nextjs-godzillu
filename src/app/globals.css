@@ -10,7 +10,7 @@
 }
 
 @font-face {
-  font-family: "c";
+  font-family: "helvetica-normal";
   src: url("../../fonts/Helvetica-Neue-LT-Std/Helvetica-Neue-LT-Std-55-Roman.ttf");
   font-weight: normal;
   font-style: normal;
@@ -26,6 +26,34 @@
 @font-face {
   font-family: "helvetica-heavy";
   src: url("../../fonts/Helvetica-Neue-LT-Std/Helvetica-Neue-LT-Std-93-Black-Extended.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "foundation-thin";
+  src: url("../../fonts/FoundationSans/FoundationSans-LightEx.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "foundation-normal";
+  src: url("../../fonts/FoundationSans/FoundationSans-Extended.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "foundation-bold";
+  src: url("../../fonts/FoundationSans/FoundationSans-BoldEx.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "foundation-heavy";
+  src: url("../../fonts/FoundationSans/FoundationSans-BlackEx.ttf");
   font-weight: normal;
   font-style: normal;
 }
